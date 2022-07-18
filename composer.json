@@ -1,0 +1,6 @@
+{
+  "name": "diversant177/test",
+  "require": {
+    "monolog/monolog": "2.*"
+  }
+}
